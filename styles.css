@@ -104,14 +104,14 @@ td, th {
     font-size: 12px;
     color: #ffffff;
     position: relative;
-    transform: translateY(-15px);
+    transform: translateY(0px);
 }
 
 .siguenos {
     font-family: calibri;
     color: white;
     position: relative;
-    transform: translateY(-20px);
+    transform: translateY(0px);
 }
 
 .redes{
@@ -122,7 +122,7 @@ td, th {
     align-items: center;
     justify-content: center;
     position: relative;
-    transform: translateY(-20px);
+    transform: translateY(0px);
 }
 
 a {
