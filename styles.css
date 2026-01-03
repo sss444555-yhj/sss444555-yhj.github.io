@@ -32,7 +32,7 @@ body {
 
 .title {
     color: White;
-    font-family: calibri;
+    font-family: -apple-system, BlinkMacSystemFont, ;
     height: 3vh;
 }
 
@@ -40,22 +40,22 @@ body {
     height: vh;
     width: 70%;
     position: relative;
-    transform: translateY(-25px)
+    transform: translateY(-8px)
 }
 
 
 .subtitle {
     Color: white;
-    font-family: calibri;
+    font-family: -apple-system, BlinkMacSystemFont, ;
     font-size: x-large;
     position: relative;
-    transform: translateY(-10px);
+    transform: translateY(-5px);
     height: 3vh;
 }
 
 .table {
-    font-family: calibri;
-    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, ;
+    font-size: 18px;
     color: #222222;
     background-color: #ffffff;
     position: relative;
@@ -84,11 +84,11 @@ td, th {
 }
 
 .razon-social {
-    font-family: calibri;
+    font-family: -apple-system, BlinkMacSystemFont, ;
     font-size: 15px;
     color: #E0E621;
     position: relative;
-    transform: translateY(-30px);
+    transform: translateY(-18px);
 }
 
 .button-one {
@@ -96,11 +96,11 @@ td, th {
     border-radius: 10px;
     padding: 8px;
     position: relative;
-    transform: translateY(-25px);
+    transform: translateY(-15px);
 }
 
 .slogan {
-    font-family: calibri;
+    font-family: -apple-system, BlinkMacSystemFont, ;
     font-size: 12px;
     color: #ffffff;
     position: relative;
@@ -108,7 +108,7 @@ td, th {
 }
 
 .siguenos {
-    font-family: calibri;
+    font-family: -apple-system, BlinkMacSystemFont, ;
     color: white;
     position: relative;
     transform: translateY(0px);
@@ -141,4 +141,3 @@ a:visited {
 a:active {
     color: #ffffff;
 }
-
